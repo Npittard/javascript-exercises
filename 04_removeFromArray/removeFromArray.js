@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-const removeFromArray = function(arr, ...nums) {
-=======
 // [1, 2, 3, 4], 3, 2)).toEqual([1, 4])
->>>>>>> 1feaf175fd2f9a666f37f1d764506b6fdb57bd68
 
 const removeFromArray = function(arr, ...nums) {
 
